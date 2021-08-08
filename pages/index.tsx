@@ -10,6 +10,8 @@ export default function Home() {
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"
         />
+        <link rel="icon" type="image/png" href="/favicon.png" />
+
       </Head>
 
       <div className="px-20 py-5 bg-base-100">
